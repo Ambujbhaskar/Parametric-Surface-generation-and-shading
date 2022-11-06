@@ -37,7 +37,8 @@ With this procedure, we can tile the whole surface using squares that are made w
 ` The size of the array = 3*6*(U_COUNT-1)*(V_COUNT-1) `. Since we add 6 points per iteration and we iterate ` (U_COUNT-1)*(V_COUNT-1) ` times.
 
 Generated Shape:<br>
-![HyperHelicoidal mesh](./Images/phong-f.png)<br>
+<img src="./Images/hyperhelicoidal.png" alt="HyperHelicoidal mesh" height="400" >
+<br>
 
 ## Lighting and Shading
 To do lighting and shading computations, we need to use the normals at every point in the shaders and manipulate them using the light and camera position to display a certain color at a pixel.
