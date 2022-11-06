@@ -62,10 +62,10 @@ are also passed to the shaders as uniforms.
 <br><br>
 ## Objectives Completed in the Code:
 1. In Gouraud, we will compute the lighting in the vertex shader.<br>
-![Gouraud](https://myoctocat.com/assets/images/base-octocat.svg)<br>
+![Gouraud](./Images/gouraud.png)<br>
 2. In this variant of Phong we are calculating the lighting in the vertex shader only.<br>
-![Phong - vertex](https://myoctocat.com/assets/images/base-octocat.svg)<br>
+![Phong - vertex](./Images/phong-v.png)<br>
 3. In Phong, we will compute the lighting in the fragment shader.<br>
-![Phong - fragment](https://myoctocat.com/assets/images/base-octocat.svg)<br>
+![Phong - fragment](./Images/phong-f.png)<br>
 4. We will compute the normals in the fragment shader and pass their modification as color.<br>
-![Normal Map](https://myoctocat.com/assets/images/base-octocat.svg)<br>
+![Normal Map](./Images/normal-map.png)<br>
