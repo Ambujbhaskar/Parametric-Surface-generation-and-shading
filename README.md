@@ -102,11 +102,11 @@ Along with those,<br>
 are also passed to the shaders as uniforms.
 <br><br>
 ## Objectives Completed in the Code:
-1. In Gouraud, we will compute the lighting in the vertex shader.<br>
+1. In Gouraud, we can compute the lighting in the vertex shader.<br>
 ![Gouraud](./Images/gouraud.png)<br>
 2. In this variant of Phong we are calculating the lighting in the vertex shader only.<br>
 ![Phong - vertex](./Images/phong-v.png)<br>
-3. In Phong, we will compute the lighting in the fragment shader.<br>
+3. In Phong, we can compute the lighting in the fragment shader.<br>
 ![Phong - fragment](./Images/phong-f.png)<br>
-4. We will compute the normals in the fragment shader and pass their modification as color.<br>
+4. We can compute the normals in the fragment shader and pass their modification as color.<br>
 ![Normal Map](./Images/normal-map.png)<br>
